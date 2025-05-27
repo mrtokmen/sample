@@ -29,7 +29,7 @@ column_introduction.markdown("""
 """, unsafe_allow_html=True)
 
 
-column_introduction.image("bank_customer/Capture.PNG", width=800)
+column_introduction.image("bank_customer/resim1.PNG", width=800)
 
 column_dataset.subheader(" - :red[About The Dataset :]",divider="gray")
 
